@@ -1,6 +1,3 @@
-.DS_Store
-*.esproj
-*.crx
-*.pem
-*.safariextz
-*.zip
+_site
+.sass-cache
+.jekyll-metadata
